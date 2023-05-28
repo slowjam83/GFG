@@ -888,6 +888,7 @@ Media Query
   }
   .section7 .box_item.community_link {
     gap: 24px;
+    height: auto;
   }
   footer {
     padding: 28px 64px;
@@ -934,12 +935,14 @@ Media Query
   }
   .section1 {
     padding: 144px 24px 64px;
+    background-position: 78% 50%;
   }
   .section1 .count_box .count_item h2 {
     font-size: 40px;
   }
   .section2 {
     height: 100vh;
+    background-position: 42% 50%;
   }
   .section2 .text_box {
     width: 60%;
@@ -986,6 +989,9 @@ Media Query
   }
   .copyright {
     flex-direction: column;
+  }
+  .copyright p {
+    text-align: center;
   }
 }
 
