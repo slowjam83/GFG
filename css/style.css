@@ -843,6 +843,7 @@ Media Query
   }
   .mo-nav .modal-footer {
     padding: 0 24px 24px;
+    margin-top: 40px;
   }
 }
 
