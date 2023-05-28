@@ -990,6 +990,9 @@ Media Query
 }
 
 @media (max-width: 456px) {
+  .btn_large {
+    font-size: 20px;
+  }
   .section3 .card_group li.card_item {
     height: 292px;
   }
