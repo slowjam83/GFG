@@ -562,6 +562,7 @@ section {
 .section7 .box_item.community_link {
   gap: 0;
   justify-content: space-between;
+  height: 208px;
 }
 .section7 .box_item.community_link a {
   height: 48px;
