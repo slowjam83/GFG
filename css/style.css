@@ -442,27 +442,27 @@ section {
   width: 100%;
 }
 .section3 .card_group li.card_item.item1 {
-  background: url("../image/box1.png") no-repeat 0 0;
+  background: url("../image/box1.png") no-repeat 50% 50%;
   background-size: contain;
 }
 .section3 .card_group li.card_item.item2 {
-  background: url("../image/box2.png") no-repeat 0 0;
+  background: url("../image/box2.png") no-repeat 50% 50%;
   background-size: contain;
 }
 .section3 .card_group li.card_item.item3 {
-  background: url("../image/box3.png") no-repeat 0 0;
+  background: url("../image/box3.png") no-repeat 50% 50%;
   background-size: contain;
 }
 .section3 .card_group li.card_item.item4 {
-  background: url("../image/box4.png") no-repeat 0 0;
+  background: url("../image/box4.png") no-repeat 50% 50%;
   background-size: contain;
 }
 .section3 .card_group li.card_item.item5 {
-  background: url("../image/box5.png") no-repeat 0 0;
+  background: url("../image/box5.png") no-repeat 50% 50%;
   background-size: contain;
 }
 .section3 .card_group li.card_item.item6 {
-  background: url("../image/box6.png") no-repeat 0 0;
+  background: url("../image/box6.png") no-repeat 50% 50%;
   background-size: contain;
 }
 .section3 .card_group li.card_item h4 {
