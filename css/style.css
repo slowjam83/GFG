@@ -325,11 +325,11 @@ section {
   padding: 160px 0;
 }
 .section1 {
-  background: url("../image/Section1.png") 50% 50% no-repeat;
+  background: url("../image/Section1.png") 78% 50% no-repeat;
   background-size: cover;
 }
 .section2 {
-  background: url("../image/Section2.png") 50% 50% no-repeat;
+  background: url("../image/Section2.png") 42% 50% no-repeat;
   background-size: cover;
 }
 .section3 {
@@ -934,14 +934,12 @@ Media Query
   }
   .section1 {
     padding: 144px 24px 64px;
-    background-position: 78% 50%;
   }
   .section1 .count_box .count_item h2 {
     font-size: 40px;
   }
   .section2 {
     height: 100vh;
-    background-position: 42% 50%;
   }
   .section2 .text_box {
     width: 60%;
