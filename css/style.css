@@ -369,6 +369,7 @@ section {
 /* section1 */
 .section1 .container {
   justify-content: center;
+  gap: 160px;
 }
 .section1 .text_box .btn_large {
   margin-top: 46px;
@@ -379,7 +380,6 @@ section {
   justify-content: space-between;
   align-items: flex-end;
   padding: 24px 24px 32px;
-  margin-top: 160px;
   width: 100%;
   text-align: center;
   border-top: 1px;
@@ -878,7 +878,6 @@ Media Query
     justify-content: space-around;
     flex: 1 1 33.33%;
     gap: 40px 64px;
-    margin-top: 80px;
   }
   .section3 .card_group {
     grid-template-columns: repeat(2, 1fr);
