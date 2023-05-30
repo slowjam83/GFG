@@ -124,14 +124,14 @@ button
 }
 .line_btn_l {
   display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: center;
-padding: 16px 40px 16px 24px;
-gap: 16px;
-width: 100%;
-border: 1px solid #fff;
-border-radius: 12px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 16px 40px 16px 24px;
+  gap: 16px;
+  width: 100%;
+  border: 1px solid #fff;
+  border-radius: 12px;
 }
 
 .btn_top {
@@ -379,6 +379,7 @@ section {
 .section1 .count_box {
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
   align-items: flex-end;
   padding: 24px 24px 32px;
   width: 100%;
@@ -1008,8 +1009,8 @@ Media Query
   .section3 .card_group li.card_item.item4,
   .section3 .card_group li.card_item.item5,
   .section3 .card_group li.card_item.item6 {
-background-size: contain;
-background-position: 50% 50%;
+    background-size: contain;
+    background-position: 50% 50%;
   }
   @media (max-width: 414px) {
     header {
